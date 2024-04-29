@@ -1,3 +1,5 @@
+# STILL WORKING ON THIS PROJECT GOT STUCK AT A POINT.
+
 # Frontend Mentor - REST Countries API with color theme switcher
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
